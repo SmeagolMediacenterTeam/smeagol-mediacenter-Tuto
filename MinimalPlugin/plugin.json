@@ -1,0 +1,7 @@
+{
+	"id":"TutoPlugin",
+	"name":"Nom de Tuto",
+	"version": "1.0.0",
+	"authors": [ "SmeagolWorms4" ],
+	"main":"TutoPlugin"
+}
